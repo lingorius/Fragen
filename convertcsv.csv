@@ -1,3 +1,43 @@
-Fragen,Option1,Option2,Option3,Korrekte_Option,Tip
-Rico wächst in Ihrem Buch ja weit...sich und seine Handicaps hinaus.,über,auf,hinweg,0,none
-Das liegt einerseits...seiner Biografie begründet.,bei,in,an,1,none
+Fragen;Option1;Option2;Option3;Korrekte_Option;Tip
+Rico wächst in Ihrem Buch ja weit...sich und seine Handicaps hinaus.;über;auf;hinweg;0;
+Das liegt einerseits...seiner Biografie begründet.;bei;in;an;1;
+Wir bummelten ... die Stadt.;entlang;durch;um;1;
+Gib mir 40 Euro ... die Fahrkarten;für;zu;um;0;
+Das Auto benötigt ... die Bewältigung diser Strecke eine Stunde;um;zu;für;2;
+Wir wanderten die Straße;entlang;durch;um;0;
+... die Diskussion zog sich der Gedanke wie ein roter Faden;entlang;durch;für;1;
+... seinen Bruder ist er klein.;gegen;wider;entgegen;0;
+Das Auto fuhr ... die Ecke;gegen;durch;um;2;
+Er stand mit dem Rücken ... das Licht;gegen;zu;um;0;
+...die Vorbereitung dieser Veranstaltung braucht man Zeit.;Um;Zu;Für;2;
+Die Studenten sind ... den Dozenten versammelt;für;um;gegen;1;
+Er arbeitete gern ... die Mathemathik;ohne;durch;für;2;
+... ihren Mann war sie völlig hilfslos.;Ohne;Durch;Wider;0;
+Der Bus führ ... zum Stadion.;um;entlang;bis;2;
+Ihre Krankheit war ... sie neu.;für;zu;durch;0;
+Das Auto ist ... einen Baum gefahren;gegen;durch;entlang;0;
+Das Schiff fährt den Fluss ...;durch;um;entlang;2;
+... sein Alter ist das Kind gut entwickelt.;für;gegen;zu;0;
+Er geht ... die Tür.;dürch;entlang;zu;0;
+Wohin gehen Sie?...(das) Ufer;ans;aufs;ins;0;
+Wohin gehen Sie?...(das) Wasser;ins/ans;ins;ans;0;
+Wohin gehen Sie?...(die) Grenze;an der;auf die;an die;2;
+Wohin gehen Sie?...(der) Markt;auf den;in den;an den;0;
+Wohin gehen Sie?...(der) Waldrand;in den;an den;auf den;1;
+Wohin gehen Sie?...(die) Insel;an die;in die;auf die;2;
+Wohin gehen Sie?...(der) Balkon;;;;;
+Wohin gehen Sie?...(die) Toilette;;;;;
+Wohin gehen Sie?...(der) Hoff;;;;;
+Wohin gehen Sie?...(das) Feld;;;;;
+Wohin gehen Sie?...(die) Wiese;;;;;
+Wohin gehen Sie?...(die) Alpen;;;;;
+Wohin gehen Sie?...(das) Land;;;;;
+Wohin gehen Sie?...(der) Bahnhof;;;;;
+Wohin gehen Sie?...(die) Philippinen;;;;;
+Wohin gehen Sie?...(der) Garten;;;;;
+Wohin gehen Sie?...(die) Post;;;;;
+Wohin gehen Sie?...(der) Sportpaltz;;;;;
+Wohin gehen Sie?...(der) Wald;;;;;
+Wohin gehen Sie?();;;;;
+Wohin gehen Sie?();;;;;
+Wohin gehen Sie?();;;;;
